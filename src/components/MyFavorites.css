@@ -1,0 +1,31 @@
+.favorites-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .favorites-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .favorite-item {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  
+  .favorite-item h2 {
+    margin-top: 0;
+  }
+  
+  .favorite-item p {
+    margin: 10px 0;
+  }
+  
+  .favorite-item p:first-child {
+    margin-top: 0;
+  }
+  
